@@ -234,6 +234,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll
   jekyll-cayman-theme
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
